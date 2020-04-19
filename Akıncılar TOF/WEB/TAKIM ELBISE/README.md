@@ -2,8 +2,7 @@
 Verilen web sayfasına girdiğimde karşımda Cem Yılmazın oynadığı Vizontele filminden alıntılarla karşılaştım :)
 ![](1.png)
 Aşağıdaki linke tıkladığımda `?kaynak` hedefine yönlendiriyordu ve orada ise sayfanın kaynak kodu bizi karşılıyordu.
-```
-HTML
+```HTML
 <!DOCTYPE HTML>
 <?php
   require("sancak.php");
