@@ -7,3 +7,16 @@ Birkaç denemeden sonra kullanıcı adıma `'` (tırnak) ekleyerek bir login ist
 ![](3.png)
 Daha sonra web isteğini hemen `Burp Suite` ile yakalayıp bir dosyaya kaydettim.
 ![](4.png)
+Ardından aydettiğim isteği `-r` parametresi ile `SQLMap` aracına verdim.
+![](5.png)
+Ve sırayla birkaç komut ardından veritabanındaki kayıtları elde etmek için gerekli komutu çalıştırdım. Flag `Users` tablosundaki ilk kaydın `Password` colomnundaydı.
+![](6.png)
+Böylece aşağıdaki komutla flagi elde etmiş oldum.
+```
+sqlmap -r duryolcu.req -D Canakkale -T Users -C ID,Username,Password --dump
+```
+
+Flag
+```
+SANCAK{Canakkale_1_SQLi_ile_Gecilmez}
+```
