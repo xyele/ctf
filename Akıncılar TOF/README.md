@@ -1,3 +1,6 @@
+## Sonuç
+Yaklaşık 100 katılımcının olduğu bu ctfde `3051` puanla 8. oldum.
+
 ## Çözdüğüm Sorular
 #### WEB
 - BACKHAND
