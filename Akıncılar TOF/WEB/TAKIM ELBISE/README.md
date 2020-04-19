@@ -38,5 +38,13 @@ Aşağıdaki linke tıkladığımda `?kaynak` hedefine yönlendiriyordu ve orada
     <a target="_blank" href="?kaynak">Kaynak kodu gör.</a>
   </body>
 </html>
+```
+Kaynak kodunun yaptığı şey `emin` GET parametresinin değerini alıp `takimelbise` değerini boşlukla replace ettirip (sildirtip) çıkan değer tekrar `takimelbise`  değerine eşitse flagi döndürmek. Bunun atlatmak için biraz araştırmadan sonra bir yöntem olduğunu keşfettim.
+![](2.png)
+Yöntem ile elde ettiğim `takimtakimelbiseelbise` değerini `emin` parametresine verince flagi elde ettim.
+![](3.png)
 
+Flag
+```
+SANCAK{T4k1m_3lb1s3l1_D3l1_3m1N_ihi_ihi}
 ```
