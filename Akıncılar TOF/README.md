@@ -6,6 +6,7 @@
 - ROBOT DEĞİL BABAM OLSA TANIRIM!
 - TAKIM ELBISE
 - TÜRKÜ SÖZLERİ NOKTA KOM
+- JR. WP DEVELOPER
 #### CRYPTO
 - NOKTALAR TIRELER
 #### FORENSIC
@@ -18,7 +19,6 @@
 
 ## Çözemediğim Sorular
 #### WEB
-- JR. WP DEVELOPER : Kodları incelediğimde şifre sıfırlama fonksiyonunun oluşturduğu şifrenin 20 haneden 1 haneye düşürüldüğünü farkettim. Ancak developer kullanıcısının şifresini sıfırladıktan sonra bütün tek karakterleri girmeme rağmen login olamadım.
 - KKS : NoSQL injection olduğunu keşfettim auth. bypass ile admin@cyber-warrior.org kullanıcısının şifresini elde ettim ancak sonuca ulaşamadım.
 #### MISCELLANEOUS
 - KALP 23 : Soruda verilen mp3 dosyasını reverse edip shazam ile müzik listesi çıkarttım ancak devamında bir sonuca ulaşamadım.
