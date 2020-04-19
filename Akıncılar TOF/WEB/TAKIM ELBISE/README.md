@@ -3,6 +3,7 @@ Verilen web sayfasına girdiğimde karşımda Cem Yılmazın oynadığı Vizonte
 ![](1.png)
 Aşağıdaki linke tıkladığımda `?kaynak` hedefine yönlendiriyordu ve orada ise sayfanın kaynak kodu bizi karşılıyordu.
 ```
+HTML
 <!DOCTYPE HTML>
 <?php
   require("sancak.php");
