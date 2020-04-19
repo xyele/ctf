@@ -16,5 +16,5 @@ Ve çıktının ardından mac adresini flage girdim ve başarılı oldum!
 
 Flag
 ```
-D0:E1:40:99:8E:F7
+SANCAK{D0:E1:40:99:8E:F7}
 ```
