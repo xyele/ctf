@@ -32,4 +32,4 @@ Yaklaşık 100 katılımcının olduğu bu ctfde `3051` puanla 8. oldum.
 #### NETWORK
 - YOLCULUK
 #### OSINT
-- SANA IHTIYACIMIZ VAR : Bu soruda flagi bulmam için GDchat uygulamasının kaynak kodlarını incelemem gerekiyordu ancak üşendim :)
+- SANA IHTIYACIMIZ VAR
